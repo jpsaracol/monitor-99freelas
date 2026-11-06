@@ -1,0 +1,24 @@
+{
+  "paginas_por_rodada": 3,
+  "max_propostas": 20,
+  "max_horas_publicado": 12,
+  "avisar_exclusivos_quando_abrirem": true,
+  "max_propostas_exclusivo_ao_abrir": 50,
+
+  "palavras_chave": [
+    "site", "sites", "landing page", "pagina", "paginas", "cardapio", "loja virtual",
+    "chatbot", "bot", "whatsapp", "agendamento", "agenda",
+    "automacao", "automatizar", "python", "javascript", "html", "css",
+    "scraping", "raspagem", "planilha", "dashboard", "api", "integracao",
+    "sistema web", "ia", "inteligencia artificial", "chatgpt", "claude", "llm"
+  ],
+
+  "excluir_no_titulo": [
+    "wordpress", "elementor", "shopify", "wix", "flutter", "react native",
+    "ios", "android", "laravel", "php", "java", "c#", ".net", "delphi",
+    "unity", "jogo", "jogos", "vmware", "trafego pago", "marketing",
+    "logo", "logotipo", "video", "traducao", "aula", "conteudista",
+    "mobile", "app", "apps", "aplicativo", "aplicativos", "phpwcms",
+    "+18", "adulto", "cs2", "gta", "mta", "lovable"
+  ]
+}
