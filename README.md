@@ -1,6 +1,6 @@
 # Monitor 99Freelas
 
-Avisa no WhatsApp quando aparece projeto de desenvolvimento web no 99Freelas que combina com você e ainda tem pouca concorrência. Roda no GitHub Actions a cada 15 minutos, então o computador pode ficar desligado.
+Avisa no Telegram (ou no WhatsApp) quando aparece projeto de desenvolvimento web no 99Freelas que combina com você e ainda tem pouca concorrência. Roda no GitHub Actions a cada 15 minutos, então o computador pode ficar desligado.
 
 Ele lê só as páginas públicas, sem login, e **nunca envia proposta**. Quem decide é você.
 
@@ -11,14 +11,18 @@ Ele lê só as páginas públicas, sem login, e **nunca envia proposta**. Quem d
 
 Os filtros ficam em `config.json`. Para mudar, edite o arquivo e faça o commit.
 
-## Configurar o WhatsApp (CallMeBot, grátis, só pro seu número)
+## Onde ficam as chaves
 
-1. Siga https://www.callmebot.com/blog/free-api-whatsapp-messages/: salve o número do bot e mande `I allow callmebot to send me messages`.
-2. Você recebe uma **apikey** no WhatsApp.
-3. No GitHub, abra o repositório e vá em **Settings → Secrets and variables → Actions → New repository secret**. Crie:
-   - `CALLMEBOT_PHONE`: seu número com DDI, ex.: `+5553999999999`
-   - `CALLMEBOT_APIKEY`: a chave recebida
-4. Em **Actions → Monitor 99Freelas → Run workflow**, rode uma vez. Deve chegar "✅ Monitor do 99Freelas ligado".
+Em **Settings → Secrets and variables → Actions** do repositório. Ninguém consegue ver o valor, nem com o repositório público.
+
+| Canal | Secrets |
+|---|---|
+| Telegram (em uso) | `TELEGRAM_TOKEN` (do @BotFather), `TELEGRAM_CHAT_ID` |
+| WhatsApp via CallMeBot | `CALLMEBOT_PHONE` (ex.: `+5553999999999`), `CALLMEBOT_APIKEY` |
+
+Se os dois estiverem configurados, o Telegram tem prioridade. Para trocar pro WhatsApp quando o CallMeBot liberar vaga (https://www.callmebot.com/blog/free-api-whatsapp-messages/), crie os secrets do CallMeBot e apague os do Telegram.
+
+Para rodar na hora, use **Actions → Monitor 99Freelas → Run workflow**.
 
 ## Testar no computador
 

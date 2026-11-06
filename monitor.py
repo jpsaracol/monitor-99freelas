@@ -93,16 +93,22 @@ def interessa(p):
     return bool(tem_termo(titulo + normalizar(p["descricao"]), CONFIG["palavras_chave"]))
 
 
-# ---------- WhatsApp ----------
+# ---------- envio (Telegram ou WhatsApp) ----------
+# As mensagens são montadas em HTML simples (<b>), que o Telegram entende.
+# Para o WhatsApp, <b> vira *negrito*.
 
-def enviar_whatsapp(texto, teste):
-    if teste:
-        print("\n----- mensagem -----\n" + texto + "\n--------------------")
-        return
-    fone = os.environ.get("CALLMEBOT_PHONE", "").strip()
-    chave = os.environ.get("CALLMEBOT_APIKEY", "").strip()
-    if not fone or not chave:
-        sys.exit("Faltam CALLMEBOT_PHONE e CALLMEBOT_APIKEY (veja o README).")
+def enviar_telegram(texto, token, chat_id):
+    dados = urllib.parse.urlencode({"chat_id": chat_id, "text": texto, "parse_mode": "HTML",
+                                    "disable_web_page_preview": "true"}).encode()
+    req = urllib.request.Request(f"https://api.telegram.org/bot{token}/sendMessage", data=dados)
+    with urllib.request.urlopen(req, timeout=30) as r:
+        if not json.loads(r.read()).get("ok"):
+            print("Telegram recusou a mensagem.")
+    time.sleep(1)
+
+
+def enviar_whatsapp(texto, fone, chave):
+    texto = html.unescape(texto.replace("<b>", "*").replace("</b>", "*"))
     url = "https://api.callmebot.com/whatsapp.php?" + urllib.parse.urlencode(
         {"phone": fone, "text": texto, "apikey": chave})
     resposta = baixar(url)
@@ -111,13 +117,27 @@ def enviar_whatsapp(texto, teste):
     time.sleep(4)  # o CallMeBot recusa mensagens muito seguidas
 
 
+def enviar(texto, teste):
+    if teste:
+        print("\n----- mensagem -----\n" + texto + "\n--------------------")
+        return
+    env = lambda k: os.environ.get(k, "").strip()
+    if env("TELEGRAM_TOKEN") and env("TELEGRAM_CHAT_ID"):
+        enviar_telegram(texto, env("TELEGRAM_TOKEN"), env("TELEGRAM_CHAT_ID"))
+    elif env("CALLMEBOT_PHONE") and env("CALLMEBOT_APIKEY"):
+        enviar_whatsapp(texto, env("CALLMEBOT_PHONE"), env("CALLMEBOT_APIKEY"))
+    else:
+        sys.exit("Configure TELEGRAM_TOKEN + TELEGRAM_CHAT_ID ou CALLMEBOT_PHONE + "
+                 "CALLMEBOT_APIKEY (veja o README).")
+
+
 def ha_quanto(segundos):
     minutos = max(0, int(segundos // 60))
     return f"{minutos} min" if minutos < 60 else f"{minutos // 60}h{minutos % 60:02d}"
 
 
 def cartao(p, agora, prefixo=""):
-    return (f"{prefixo}*{p['titulo']}*\n"
+    return (f"{prefixo}<b>{html.escape(p['titulo'])}</b>\n"
             f"📊 {p['propostas']} propostas · publicado há {ha_quanto(agora - p['publicado'])}\n"
             f"🔗 {p['url']}")
 
@@ -125,7 +145,7 @@ def cartao(p, agora, prefixo=""):
 def enviar_lote(cabecalho, cartoes, teste):
     # até 4 projetos por mensagem para não estourar o tamanho da URL
     for i in range(0, len(cartoes), 4):
-        enviar_whatsapp(cabecalho + "\n\n" + "\n\n".join(cartoes[i:i + 4]), teste)
+        enviar(cabecalho + "\n\n" + "\n\n".join(cartoes[i:i + 4]), teste)
 
 
 # ---------- principal ----------
@@ -171,13 +191,13 @@ def main():
             time.sleep(2)
 
     if primeira_vez:
-        enviar_whatsapp("✅ Monitor do 99Freelas ligado. A partir de agora aviso aqui "
-                        "quando aparecer projeto que combina com você.", teste)
+        enviar("✅ Monitor do 99Freelas ligado. A partir de agora aviso aqui "
+               "quando aparecer projeto que combina com você.", teste)
     if novos:
-        enviar_lote(f"🔔 *99Freelas: {len(novos)} projeto(s) novo(s)*",
+        enviar_lote(f"🔔 <b>99Freelas: {len(novos)} projeto(s) novo(s)</b>",
                     [cartao(p, agora) for p in novos], teste)
     if abertos:
-        enviar_lote("🔓 *Exclusivos que acabaram de abrir pro plano grátis*",
+        enviar_lote("🔓 <b>Exclusivos que acabaram de abrir pro plano grátis</b>",
                     [cartao(p, agora) for p in abertos], teste)
 
     # limpa o que é velho
