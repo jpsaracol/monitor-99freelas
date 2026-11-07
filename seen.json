@@ -126,7 +126,7 @@
  "796817": {
   "visto": 1793980568,
   "titulo": "Design loja Nuvemshop com aplicação de baner e check de como está o restant",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1794065910,
   "url": "https://www.99freelas.com.br/project/design-loja-nuvemshop-com-aplicacao-de-baner-e-check-de-como-esta-o-restant-796817",
   "publicado": 1793979512
@@ -218,5 +218,13 @@
  "797003": {
   "visto": 1794060381,
   "titulo": "Bot de assinatura no Telegram com PIX Mercado Pago e canal VIP"
+ },
+ "797072": {
+  "visto": 1794077341,
+  "titulo": "Automação de atendimento com n8n, Evolution API e Chatwoot"
+ },
+ "797049": {
+  "visto": 1794077341,
+  "titulo": "Desenvolvimento de launcher personalizado para Minecraft"
  }
 }
