@@ -230,7 +230,7 @@
  "797110": {
   "visto": 1794090698,
   "titulo": "Redesign UI/UX de site existente: interface moderna e minimalista",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1794174756,
   "url": "https://www.99freelas.com.br/project/redesign-ui-ux-de-site-existente-interface-moderna-e-minimalista-797110",
   "publicado": 1794088357
@@ -290,5 +290,13 @@
  "797206": {
   "visto": 1794167904,
   "titulo": "Criação, desenvolvimento e estruturação de agente de inteligência artificial"
+ },
+ "797257": {
+  "visto": 1794181047,
+  "titulo": "Testadores Android Play Meu Parça"
+ },
+ "797250": {
+  "visto": 1794181047,
+  "titulo": "Desenvolvedor para criar jogo roleplay Android — YETI RP"
  }
 }
