@@ -322,7 +322,7 @@
  "797313": {
   "visto": 1794223132,
   "titulo": "Hospitality Startup Platform Audit + Partnership",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1794307139,
   "url": "https://www.99freelas.com.br/project/hospitality-startup-platform-audit-partnership-797313",
   "publicado": 1794220740
@@ -330,7 +330,7 @@
  "797300": {
   "visto": 1794223132,
   "titulo": "AUTOMATIZAR CRIAÇÃO DE CONTAS INSTAGRAM",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1794299866,
   "url": "https://www.99freelas.com.br/project/automatizar-criacao-de-contas-instagram-797300",
   "publicado": 1794213467
@@ -410,5 +410,25 @@
  "797507": {
   "visto": 1794282555,
   "titulo": "Publicação de aplicativos mobile para Android e iOS"
+ },
+ "797579": {
+  "visto": 1794313045,
+  "titulo": "Corrigir rejeição de aplicativo iOS pela Apple - In-App Purchase"
+ },
+ "797581": {
+  "visto": 1794313045,
+  "titulo": "Criação de IA para clínica dentária"
+ },
+ "797572": {
+  "visto": 1794313045,
+  "titulo": "Automação com IA para criação e publicação de reels de afiliados"
+ },
+ "797551": {
+  "visto": 1794313045,
+  "titulo": "Criação de IA para gestão de tráfego pago"
+ },
+ "797578": {
+  "visto": 1794313045,
+  "titulo": "Redesign e otimização de loja Shopify: design premium, UX/UI, mobile e SEO"
  }
 }
