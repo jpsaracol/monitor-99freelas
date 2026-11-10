@@ -302,7 +302,7 @@
  "797281": {
   "visto": 1794193167,
   "titulo": "API de estoque para alta demanda com Spring Boot, Redis e Kafka",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1794278369,
   "url": "https://www.99freelas.com.br/project/api-de-estoque-para-alta-demanda-com-spring-boot-redis-e-kafka-797281",
   "publicado": 1794191970
@@ -310,7 +310,7 @@
  "797279": {
   "visto": 1794193167,
   "titulo": "Planilhas e organização de informações",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1794277522,
   "url": "https://www.99freelas.com.br/project/planilhas-e-organizacao-de-informacoes-797279",
   "publicado": 1794191123
@@ -366,5 +366,49 @@
  "797356": {
   "visto": 1794260095,
   "titulo": "Site WordPress multilíngue para turismo: tema próprio, Bókun e SEO"
+ },
+ "797553": {
+  "visto": 1794282555,
+  "titulo": "? PROCURA-SE DESENVOLVEDOR DE GAMES!"
+ },
+ "797545": {
+  "visto": 1794282555,
+  "titulo": "LUCIMARAPIRESLINHARSS123554848K",
+  "aguardando": true,
+  "abre_em": 1794363394,
+  "url": "https://www.99freelas.com.br/project/lucimarapireslinharss123554848k-797545",
+  "publicado": 1794276995
+ },
+ "797536": {
+  "visto": 1794282555,
+  "titulo": "Mínimo produto viável para análises estatísticas de CS2"
+ },
+ "797535": {
+  "visto": 1794282555,
+  "titulo": "Site/plataforma imobiliária de 3 interfaces"
+ },
+ "797522": {
+  "visto": 1794282555,
+  "titulo": "Criação de site para roupa infantil masculina"
+ },
+ "797528": {
+  "visto": 1794282555,
+  "titulo": "Criar um servidor de roleplay de Hogwarts Legacy"
+ },
+ "797513": {
+  "visto": 1794282555,
+  "titulo": "Criação de IA para clínica dentária"
+ },
+ "797510": {
+  "visto": 1794282555,
+  "titulo": "Design UX/UI e desenvolvimento de sites no-code"
+ },
+ "797509": {
+  "visto": 1794282555,
+  "titulo": "Criação de página de vendas - WordPress + WooCommerce"
+ },
+ "797507": {
+  "visto": 1794282555,
+  "titulo": "Publicação de aplicativos mobile para Android e iOS"
  }
 }
