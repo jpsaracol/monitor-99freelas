@@ -350,7 +350,7 @@
  "797432": {
   "visto": 1794260095,
   "titulo": "Consultoria e implantação de clone digital de professor para cursos",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1794332855,
   "url": "https://www.99freelas.com.br/project/consultoria-e-implantacao-de-clone-digital-de-professor-para-cursos-797432",
   "publicado": 1794246456
@@ -430,5 +430,37 @@
  "797578": {
   "visto": 1794313045,
   "titulo": "Redesign e otimização de loja Shopify: design premium, UX/UI, mobile e SEO"
+ },
+ "797713": {
+  "visto": 1794340524,
+  "titulo": "Finalização e homologação de CRM SaaS Full Stack"
+ },
+ "797705": {
+  "visto": 1794340524,
+  "titulo": "Sistema de buscas em sites de tribunais"
+ },
+ "797694": {
+  "visto": 1794340524,
+  "titulo": "Ajustes em sistema, cloud e publicação de aplicativo mobile"
+ },
+ "797684": {
+  "visto": 1794340524,
+  "titulo": "Criação e publicação de página de vendas"
+ },
+ "797664": {
+  "visto": 1794340524,
+  "titulo": "Script de casa de apostas"
+ },
+ "797653": {
+  "visto": 1794340524,
+  "titulo": "Desenvolvimento de site portfólio"
+ },
+ "797623": {
+  "visto": 1794340524,
+  "titulo": "UI/UX para jogo MMORPG de Pokémon"
+ },
+ "797615": {
+  "visto": 1794340524,
+  "titulo": "Integração Brendi com Consumer via API intermediária"
  }
 }
