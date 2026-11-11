@@ -374,7 +374,7 @@
  "797545": {
   "visto": 1794282555,
   "titulo": "LUCIMARAPIRESLINHARSS123554848K",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1794363394,
   "url": "https://www.99freelas.com.br/project/lucimarapireslinharss123554848k-797545",
   "publicado": 1794276995
@@ -486,5 +486,17 @@
  "797724": {
   "visto": 1794356917,
   "titulo": "Manutenção e atualização do ERP antigo em PHP"
+ },
+ "797802": {
+  "visto": 1794380373,
+  "titulo": "Desenvolvo sites,sitemas,APIS,landing pages e etc",
+  "aguardando": true,
+  "abre_em": 1794453433,
+  "url": "https://www.99freelas.com.br/project/desenvolvo-sites-sitemas-apis-landing-pages-e-etc-797802",
+  "publicado": 1794367035
+ },
+ "797800": {
+  "visto": 1794380373,
+  "titulo": "Instalação e Configuração de Evolution API + Typebot em VPS (Automação de W"
  }
 }
