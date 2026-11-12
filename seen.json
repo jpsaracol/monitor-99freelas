@@ -502,7 +502,7 @@
  "797882": {
   "visto": 1794409447,
   "titulo": "Aprovação de permissões da API do Instagram no Meta for Developers",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1794495160,
   "url": "https://www.99freelas.com.br/project/aprovacao-de-permissoes-da-api-do-instagram-no-meta-for-developers-797882",
   "publicado": 1794408761
@@ -618,5 +618,41 @@
   "abre_em": 1794546370,
   "url": "https://www.99freelas.com.br/project/desenvolvedor-full-stack-disponivel-para-projetos-798082",
   "publicado": 1794459971
+ },
+ "798219": {
+  "visto": 1794508669,
+  "titulo": "Migrar site WordPress da Locaweb para HostGator e otimizar velocidade"
+ },
+ "798185": {
+  "visto": 1794508669,
+  "titulo": "Reprodução fiel de página de vendas no WordPress com Elementor"
+ },
+ "798182": {
+  "visto": 1794508669,
+  "titulo": "Bot automático de sinais Bac Bo",
+  "aguardando": true,
+  "abre_em": 1794583785,
+  "url": "https://www.99freelas.com.br/project/bot-automatico-de-sinais-bac-bo-798182",
+  "publicado": 1794497386
+ },
+ "798157": {
+  "visto": 1794508669,
+  "titulo": "Adicionar sistema de doações e link de compartilhamento ao jogo"
+ },
+ "798138": {
+  "visto": 1794508669,
+  "titulo": "Investigação para identificar responsável por perfil falso no Instagram"
+ },
+ "798132": {
+  "visto": 1794508669,
+  "titulo": "Implementação de PDV offline e validação fiscal"
+ },
+ "798106": {
+  "visto": 1794508669,
+  "titulo": "Automação de operações logísticas com Python e OpenClaw"
+ },
+ "798070": {
+  "visto": 1794508669,
+  "titulo": "Criação de site de copy trading para Forex"
  }
 }
