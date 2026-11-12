@@ -490,7 +490,7 @@
  "797802": {
   "visto": 1794380373,
   "titulo": "Desenvolvo sites,sitemas,APIS,landing pages e etc",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1794453433,
   "url": "https://www.99freelas.com.br/project/desenvolvo-sites-sitemas-apis-landing-pages-e-etc-797802",
   "publicado": 1794367035
@@ -590,5 +590,33 @@
  "798022": {
   "visto": 1794451826,
   "titulo": "Rastreador integrado a sistema de corridas de táxis executivos"
+ },
+ "798109": {
+  "visto": 1794480305,
+  "titulo": "Derrubar conta Facebook, Instagram e threads"
+ },
+ "798105": {
+  "visto": 1794480305,
+  "titulo": "Desenvolvimento de Plataforma Web/App com IA Personalizada (RAG) e Checkout"
+ },
+ "798088": {
+  "visto": 1794480305,
+  "titulo": "Criação de CRM Hospedado c/ URL Própria, Sis. Web e Apps Mobile personaliz"
+ },
+ "798086": {
+  "visto": 1794480305,
+  "titulo": "Desenvolvedor Full Stack | Python, FastAPI, JavaScript e React",
+  "aguardando": true,
+  "abre_em": 1794547240,
+  "url": "https://www.99freelas.com.br/project/desenvolvedor-full-stack-python-fastapi-javascript-e-react-798086",
+  "publicado": 1794460841
+ },
+ "798082": {
+  "visto": 1794480305,
+  "titulo": "Desenvolvedor Full Stack disponível para projetos",
+  "aguardando": true,
+  "abre_em": 1794546370,
+  "url": "https://www.99freelas.com.br/project/desenvolvedor-full-stack-disponivel-para-projetos-798082",
+  "publicado": 1794459971
  }
 }
