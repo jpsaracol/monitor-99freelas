@@ -606,7 +606,7 @@
  "798086": {
   "visto": 1794480305,
   "titulo": "Desenvolvedor Full Stack | Python, FastAPI, JavaScript e React",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1794547240,
   "url": "https://www.99freelas.com.br/project/desenvolvedor-full-stack-python-fastapi-javascript-e-react-798086",
   "publicado": 1794460841
@@ -614,7 +614,7 @@
  "798082": {
   "visto": 1794480305,
   "titulo": "Desenvolvedor Full Stack disponível para projetos",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1794546370,
   "url": "https://www.99freelas.com.br/project/desenvolvedor-full-stack-disponivel-para-projetos-798082",
   "publicado": 1794459971
@@ -682,5 +682,33 @@
  "798239": {
   "visto": 1794527598,
   "titulo": "Inserção de logotipo e criação de landing page"
+ },
+ "798311": {
+  "visto": 1794548389,
+  "titulo": "COUTO DISTRICT criação de loja virtual (COUTO DISTRICT )",
+  "aguardando": true,
+  "abre_em": 1794624262,
+  "url": "https://www.99freelas.com.br/project/couto-district-criacao-de-loja-virtual-couto-district-798311",
+  "publicado": 1794537864
+ },
+ "798307": {
+  "visto": 1794548389,
+  "titulo": "Programação - Leitura de imagens -> Jogar em Excel"
+ },
+ "798301": {
+  "visto": 1794548389,
+  "titulo": "Criação de website/landing page"
+ },
+ "798299": {
+  "visto": 1794548389,
+  "titulo": "Desenvolvimento de app mobile/PWA, painel web e integração Pix"
+ },
+ "798294": {
+  "visto": 1794548389,
+  "titulo": "Configurar Claude Pro como especialista em Google Ads e Google Meu Negócio"
+ },
+ "798292": {
+  "visto": 1794548389,
+  "titulo": "Chatbot de WhatsApp para clínica médica"
  }
 }
