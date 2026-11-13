@@ -1,128 +1,4 @@
 {
- "796726": {
-  "visto": 1793952129,
-  "titulo": "Ajustes em sistema web de controle de estoque",
-  "aguardando": false,
-  "abre_em": 1794027294,
-  "url": "https://www.99freelas.com.br/project/ajustes-em-sistema-web-de-controle-de-estoque-796726",
-  "publicado": 1793940896
- },
- "796705": {
-  "visto": 1793952129,
-  "titulo": "Projeto: Desenvolvimento de uma ferramenta de modificação para jogos"
- },
- "796711": {
-  "visto": 1793952129,
-  "titulo": "Bloquear ou derrubar  vídeo YouTube e busca google relacionada aos fatos..."
- },
- "796708": {
-  "visto": 1793952129,
-  "titulo": "Korvs sistema avançado de controle a jauste campanha"
- },
- "796701": {
-  "visto": 1793952129,
-  "titulo": "Desenvolvimento e finalização de site em WordPress com Elementor"
- },
- "796694": {
-  "visto": 1793952129,
-  "titulo": "Finalização de apps no Lovable"
- },
- "796690": {
-  "visto": 1793952129,
-  "titulo": "Desenvolvimento de site institucional e plataforma web responsiva"
- },
- "796692": {
-  "visto": 1793952129,
-  "titulo": "Desenvolvimento full stack - Laravel, Python e IA"
- },
- "796686": {
-  "visto": 1793952129,
-  "titulo": "Revisão de arquitetura e código de app de delivery em Flutter"
- },
- "796673": {
-  "visto": 1793952129,
-  "titulo": "Integração bidirecional entre Chat2Desk e RD Station CRM (Node/TypeScript)"
- },
- "796663": {
-  "visto": 1793952129,
-  "titulo": "Desenvolvimento de sistema de monitoramento de notícias"
- },
- "796643": {
-  "visto": 1793952129,
-  "titulo": "Criação de landing page para venda de curso online de emagrecimento"
- },
- "796612": {
-  "visto": 1793952129,
-  "titulo": "Desenvolvimento de plataforma para compra e venda de skins CS2"
- },
- "796615": {
-  "visto": 1793952129,
-  "titulo": "Redesign de portfólio audiovisual na plataforma 46 Graus"
- },
- "796604": {
-  "visto": 1793952129,
-  "titulo": "Site institucional para especialista em educação"
- },
- "796601": {
-  "visto": 1793952129,
-  "titulo": "Desenvolvimento de plataforma SaaS de rastreamento GPS"
- },
- "796597": {
-  "visto": 1793952129,
-  "titulo": "Consultoria em phpWCMS em Linux"
- },
- "796574": {
-  "visto": 1793952129,
-  "titulo": "Criação de galeria de fotos e vídeos para Android"
- },
- "796524": {
-  "visto": 1793952129,
-  "titulo": "Migração de VMware vSphere 8 para VCF 9.x"
- },
- "796519": {
-  "visto": 1793952129,
-  "titulo": "Desenvolvimento de PWA com IA integrado ao WhatsApp Business API"
- },
- "796514": {
-  "visto": 1793952129,
-  "titulo": "Desenvolvimento de solução e automação para plataforma de anúncios"
- },
- "796498": {
-  "visto": 1793952129,
-  "titulo": "Transferência de sistema de gestão para servidor"
- },
- "796492": {
-  "visto": 1793952129,
-  "titulo": "Criação de app iOS e Android para comunidade de qualidade de vida"
- },
- "796482": {
-  "visto": 1793952129,
-  "titulo": "Criação de landing page para infoproduto"
- },
- "796480": {
-  "visto": 1793952129,
-  "titulo": "Desenvolvimento de aplicativos mobile para supermercados"
- },
- "796447": {
-  "visto": 1793952129,
-  "titulo": "Recriação de CRM para atendimento via WhatsApp"
- },
- "796444": {
-  "visto": 1793952129,
-  "titulo": "Desenvolvimento de servidor completo de MTA (GTA San Andreas Online)"
- },
- "796407": {
-  "visto": 1793952129,
-  "titulo": "Sistema web e bot do Telegram para conteúdo +18"
- },
- "796360": {
-  "visto": 1793952129,
-  "titulo": "Migração e otimização de hospedagem de SiteGround para Hostinger Cloud"
- },
- "796344": {
-  "visto": 1793952129,
-  "titulo": "Criação de um site na Shopify"
- },
  "796817": {
   "visto": 1793980568,
   "titulo": "Design loja Nuvemshop com aplicação de baner e check de como está o restant",
@@ -710,5 +586,29 @@
  "798292": {
   "visto": 1794548389,
   "titulo": "Chatbot de WhatsApp para clínica médica"
+ },
+ "798377": {
+  "visto": 1794576412,
+  "titulo": "Auditoria de segurança e pentest em marketplace React Native/NestJS"
+ },
+ "798374": {
+  "visto": 1794576412,
+  "titulo": "Criar aplicativo semelhante ao BillionGraves, com GPS e memoriais"
+ },
+ "798365": {
+  "visto": 1794576412,
+  "titulo": "Finalização de agente de IA com Dify, WhatsApp e pagamentos"
+ },
+ "798358": {
+  "visto": 1794576412,
+  "titulo": "Automação de WhatsApp com IA (uChat + n8n)"
+ },
+ "798349": {
+  "visto": 1794576412,
+  "titulo": "Publicação e atualização de aplicativos para Android e iOS"
+ },
+ "798343": {
+  "visto": 1794576412,
+  "titulo": "Criação de site institucional na plataforma Wix"
  }
 }
