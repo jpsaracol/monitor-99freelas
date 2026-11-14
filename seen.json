@@ -1,48 +1,4 @@
 {
- "796896": {
-  "visto": 1794000225,
-  "titulo": "Desenvolvimento de software web de base de conhecimento"
- },
- "796606": {
-  "visto": 1794000225,
-  "titulo": "Ajustes em WordPress: políticas, consentimento por SMS e formulário"
- },
- "796893": {
-  "visto": 1794000225,
-  "titulo": "Criação de loja virtual para venda de artigos católicos"
- },
- "796875": {
-  "visto": 1794000225,
-  "titulo": "Automação de criativos para Meta ADS com Claude Code"
- },
- "796874": {
-  "visto": 1794000225,
-  "titulo": "Ajustes de layout, conteúdo e SEO em loja Nuvemshop (acessórios pet)"
- },
- "796866": {
-  "visto": 1794000225,
-  "titulo": "Desenvolvimento de site institucional (criação de website)"
- },
- "796862": {
-  "visto": 1794000225,
-  "titulo": "Plataforma de inteligência automotiva com IA embarcada"
- },
- "796861": {
-  "visto": 1794000225,
-  "titulo": "Aplicativo para unir prestadores e contratantes de serviços"
- },
- "796854": {
-  "visto": 1794000225,
-  "titulo": "Criação de página HTML simples"
- },
- "796849": {
-  "visto": 1794000225,
-  "titulo": "Criação de loja virtual para marca de moda feminina"
- },
- "796844": {
-  "visto": 1794000225,
-  "titulo": "Plataforma de treinamento imersivo em realidade virtual (VR)"
- },
  "796982": {
   "visto": 1794035534,
   "titulo": "Parceria com Freelancers para Agência de Serviços Digitais",
@@ -494,7 +450,7 @@
  "798282": {
   "visto": 1794527598,
   "titulo": "Desenvolvimento de script para casa de apostas com cassino online",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1794612638,
   "url": "https://www.99freelas.com.br/project/desenvolvimento-de-script-para-casa-de-apostas-com-cassino-online-798282",
   "publicado": 1794526239
@@ -590,5 +546,21 @@
  "798387": {
   "visto": 1794602252,
   "titulo": "Desenvolvimento de aplicativo de gestão de pedidos, estoque e entregas"
+ },
+ "798504": {
+  "visto": 1794618245,
+  "titulo": "Configuração de campanhas no Google Ads com Claude"
+ },
+ "798502": {
+  "visto": 1794618245,
+  "titulo": "Auditoria e arquitetura de plataforma para migração de perfis"
+ },
+ "798497": {
+  "visto": 1794618245,
+  "titulo": "Atendimento utilizando IA para WhatsApp Business"
+ },
+ "798486": {
+  "visto": 1794618245,
+  "titulo": "Criação e configuração completa de loja Nuvemshop para marca de abajures"
  }
 }
