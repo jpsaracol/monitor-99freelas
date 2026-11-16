@@ -1,12 +1,4 @@
 {
- "797257": {
-  "visto": 1794181047,
-  "titulo": "Testadores Android Play Meu Parça"
- },
- "797250": {
-  "visto": 1794181047,
-  "titulo": "Desenvolvedor para criar jogo roleplay Android — YETI RP"
- },
  "797281": {
   "visto": 1794193167,
   "titulo": "API de estoque para alta demanda com Spring Boot, Redis e Kafka",
@@ -514,5 +506,21 @@
  "798700": {
   "visto": 1794763571,
   "titulo": "MVP de jogo simulador de supermercado tycoon 2D para Android"
+ },
+ "798811": {
+  "visto": 1794794000,
+  "titulo": "Repaginação de site e criação de 2 vídeos curtos de apresentação comercial",
+  "aguardando": true,
+  "abre_em": 1794879740,
+  "url": "https://www.99freelas.com.br/project/repaginacao-de-site-e-criacao-de-2-videos-curtos-de-apresentacao-comercial-798811",
+  "publicado": 1794793341
+ },
+ "798813": {
+  "visto": 1794794000,
+  "titulo": "Integração e automatização de sistema de atendimento WhatsApp"
+ },
+ "798801": {
+  "visto": 1794794000,
+  "titulo": "Criação de landing page profissional para produtos personalizados"
  }
 }
