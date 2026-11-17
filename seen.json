@@ -1,36 +1,4 @@
 {
- "797459": {
-  "visto": 1794260095,
-  "titulo": "Desenvolvimento de automação de Reels virais com IA para afiliados"
- },
- "797453": {
-  "visto": 1794260095,
-  "titulo": "Redesign de aplicativo automotivo"
- },
- "797450": {
-  "visto": 1794260095,
-  "titulo": "Extrator de leads dos comentários"
- },
- "797432": {
-  "visto": 1794260095,
-  "titulo": "Consultoria e implantação de clone digital de professor para cursos",
-  "aguardando": false,
-  "abre_em": 1794332855,
-  "url": "https://www.99freelas.com.br/project/consultoria-e-implantacao-de-clone-digital-de-professor-para-cursos-797432",
-  "publicado": 1794246456
- },
- "797425": {
-  "visto": 1794260095,
-  "titulo": "Auditoria de aplicativo para crianças"
- },
- "797359": {
-  "visto": 1794260095,
-  "titulo": "Redesign profissional de landing page para e-books de turismo + capa"
- },
- "797356": {
-  "visto": 1794260095,
-  "titulo": "Site WordPress multilíngue para turismo: tema próprio, Bókun e SEO"
- },
  "797553": {
   "visto": 1794282555,
   "titulo": "? PROCURA-SE DESENVOLVEDOR DE GAMES!"
@@ -474,7 +442,7 @@
  "798811": {
   "visto": 1794794000,
   "titulo": "Repaginação de site e criação de 2 vídeos curtos de apresentação comercial",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1794879740,
   "url": "https://www.99freelas.com.br/project/repaginacao-de-site-e-criacao-de-2-videos-curtos-de-apresentacao-comercial-798811",
   "publicado": 1794793341
@@ -522,5 +490,61 @@
  "798836": {
   "visto": 1794857855,
   "titulo": "Microsoft Access/VBA: banco de dados, PDF/Word e envio de e-mails"
+ },
+ "799111": {
+  "visto": 1794883051,
+  "titulo": "Landing page conversível",
+  "aguardando": true,
+  "abre_em": 1794968480,
+  "url": "https://www.99freelas.com.br/project/landing-page-conversivel-799111",
+  "publicado": 1794882081
+ },
+ "799094": {
+  "visto": 1794883051,
+  "titulo": "Engenharia reversa e replicação de software"
+ },
+ "799101": {
+  "visto": 1794883051,
+  "titulo": "Montagem de loja na Shopee com cadastro de produtos"
+ },
+ "799068": {
+  "visto": 1794883051,
+  "titulo": "Criação de site de e-commerce na Nuvemshop"
+ },
+ "799067": {
+  "visto": 1794883051,
+  "titulo": "Desenvolvimento de CRM para cadastro de clientes e veículos"
+ },
+ "799065": {
+  "visto": 1794883051,
+  "titulo": "Projeto de plataforma digital para eventos, turismo, gastronomia e negócios"
+ },
+ "799055": {
+  "visto": 1794883051,
+  "titulo": "Deploy em VPS Hostinger + Amazon S3 e revisão de sistema Laravel/Angular"
+ },
+ "799039": {
+  "visto": 1794883051,
+  "titulo": "Desenvolvimento de loja virtual personalizada do zero"
+ },
+ "799028": {
+  "visto": 1794883051,
+  "titulo": "Landing page para loja de produtos de estética"
+ },
+ "799031": {
+  "visto": 1794883051,
+  "titulo": "Landing page em HTML para loja de produtos de estética"
+ },
+ "799030": {
+  "visto": 1794883051,
+  "titulo": "Desenvolvimento, testes e ajustes em ferramenta de lives no TikTok"
+ },
+ "799029": {
+  "visto": 1794883051,
+  "titulo": "Ajustes em bot do Telegram"
+ },
+ "799000": {
+  "visto": 1794883051,
+  "titulo": "Projeto de estruturação e implantação do e-commerce"
  }
 }
