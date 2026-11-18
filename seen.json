@@ -1,16 +1,4 @@
 {
- "797802": {
-  "visto": 1794380373,
-  "titulo": "Desenvolvo sites,sitemas,APIS,landing pages e etc",
-  "aguardando": false,
-  "abre_em": 1794453433,
-  "url": "https://www.99freelas.com.br/project/desenvolvo-sites-sitemas-apis-landing-pages-e-etc-797802",
-  "publicado": 1794367035
- },
- "797800": {
-  "visto": 1794380373,
-  "titulo": "Instalação e Configuração de Evolution API + Typebot em VPS (Automação de W"
- },
  "797882": {
   "visto": 1794409447,
   "titulo": "Aprovação de permissões da API do Instagram no Meta for Developers",
@@ -374,7 +362,7 @@
  "799111": {
   "visto": 1794883051,
   "titulo": "Landing page conversível",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1794968480,
   "url": "https://www.99freelas.com.br/project/landing-page-conversivel-799111",
   "publicado": 1794882081
@@ -434,7 +422,7 @@
  "799129": {
   "visto": 1794913938,
   "titulo": "Criar bot de puxa dados email telefone... Do Telegram com canal para o Bot",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1794987511,
   "url": "https://www.99freelas.com.br/project/criar-bot-de-puxa-dados-email-telefone-do-telegram-com-canal-para-o-bot-799129",
   "publicado": 1794901112
@@ -490,5 +478,9 @@
  "799351": {
   "visto": 1794967966,
   "titulo": "Criação de site para conteúdos técnicos e científicos"
+ },
+ "799401": {
+  "visto": 1794996992,
+  "titulo": "Criar app de plano odontológico"
  }
 }
