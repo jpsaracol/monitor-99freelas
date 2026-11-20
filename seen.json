@@ -1,28 +1,4 @@
 {
- "798377": {
-  "visto": 1794576412,
-  "titulo": "Auditoria de segurança e pentest em marketplace React Native/NestJS"
- },
- "798374": {
-  "visto": 1794576412,
-  "titulo": "Criar aplicativo semelhante ao BillionGraves, com GPS e memoriais"
- },
- "798365": {
-  "visto": 1794576412,
-  "titulo": "Finalização de agente de IA com Dify, WhatsApp e pagamentos"
- },
- "798358": {
-  "visto": 1794576412,
-  "titulo": "Automação de WhatsApp com IA (uChat + n8n)"
- },
- "798349": {
-  "visto": 1794576412,
-  "titulo": "Publicação e atualização de aplicativos para Android e iOS"
- },
- "798343": {
-  "visto": 1794576412,
-  "titulo": "Criação de site institucional na plataforma Wix"
- },
  "798440": {
   "visto": 1794602252,
   "titulo": "Plataforma de atendimento automatizado com WhatsApp e IA"
@@ -430,5 +406,33 @@
   "abre_em": 1795229776,
   "url": "https://www.99freelas.com.br/project/faco-sites-para-sua-empresa-799838",
   "publicado": 1795143378
+ },
+ "799903": {
+  "visto": 1795193251,
+  "titulo": "Criação de site adulto simples para vídeos (+18)"
+ },
+ "799898": {
+  "visto": 1795193251,
+  "titulo": "Finalizar rotina de IBS e CBS com ACBr em Delphi 7"
+ },
+ "799887": {
+  "visto": 1795193251,
+  "titulo": "Site institucional minimalista para consultor de dados (portfólio + SEO)"
+ },
+ "799874": {
+  "visto": 1795193251,
+  "titulo": "Configuração e integração de lojas: Mercado Livre, Shopee, SHEIN e Magalu"
+ },
+ "799858": {
+  "visto": 1795193251,
+  "titulo": "Personalização visual de aplicativo PWA"
+ },
+ "799857": {
+  "visto": 1795193251,
+  "titulo": "UiPath RPA automation maintenance and workflow development",
+  "aguardando": true,
+  "abre_em": 1795259683,
+  "url": "https://www.99freelas.com.br/project/uipath-rpa-automation-maintenance-and-workflow-development-799857",
+  "publicado": 1795173284
  }
 }
