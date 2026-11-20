@@ -1,24 +1,4 @@
 {
- "798440": {
-  "visto": 1794602252,
-  "titulo": "Plataforma de atendimento automatizado com WhatsApp e IA"
- },
- "798438": {
-  "visto": 1794602252,
-  "titulo": "Criação de site para apresentação de casamentos"
- },
- "798430": {
-  "visto": 1794602252,
-  "titulo": "Integração de atendimento com IA no WhatsApp"
- },
- "798419": {
-  "visto": 1794602252,
-  "titulo": "Sistema para cadastro de membros de igreja"
- },
- "798387": {
-  "visto": 1794602252,
-  "titulo": "Desenvolvimento de aplicativo de gestão de pedidos, estoque e entregas"
- },
  "798504": {
   "visto": 1794618245,
   "titulo": "Configuração de campanhas no Google Ads com Claude"
@@ -334,7 +314,7 @@
  "799753": {
   "visto": 1795111319,
   "titulo": "Deploy de Evolution API (WhatsApp) em VPS Ubuntu com Docker e Portainer",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1795197519,
   "url": "https://www.99freelas.com.br/project/deploy-de-evolution-api-whatsapp-em-vps-ubuntu-com-docker-e-portainer-799753",
   "publicado": 1795111121
@@ -342,7 +322,7 @@
  "799743": {
   "visto": 1795111319,
   "titulo": "Configuração profissional de OBS para canal gamer no YouTube",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1795197221,
   "url": "https://www.99freelas.com.br/project/configuracao-profissional-de-obs-para-canal-gamer-no-youtube-799743",
   "publicado": 1795110823
@@ -350,7 +330,7 @@
  "799739": {
   "visto": 1795111319,
   "titulo": "Ferramenta Windows para leitura, escrita e injeção de memória",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1795196904,
   "url": "https://www.99freelas.com.br/project/ferramenta-windows-para-leitura-escrita-e-injecao-de-memoria-799739",
   "publicado": 1795110506
@@ -434,5 +414,21 @@
   "abre_em": 1795259683,
   "url": "https://www.99freelas.com.br/project/uipath-rpa-automation-maintenance-and-workflow-development-799857",
   "publicado": 1795173284
+ },
+ "799965": {
+  "visto": 1795215586,
+  "titulo": "Transformar site em aplicativo"
+ },
+ "799937": {
+  "visto": 1795215586,
+  "titulo": "Criação de site e identidade visual para nutricionista oncológico"
+ },
+ "799936": {
+  "visto": 1795215586,
+  "titulo": "Integração de atendimento telefônico e WhatsApp com Twilio e ElevenLabs"
+ },
+ "799928": {
+  "visto": 1795215586,
+  "titulo": "Site para portfólio profissional"
  }
 }
