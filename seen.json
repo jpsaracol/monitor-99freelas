@@ -1,8 +1,4 @@
 {
- "798515": {
-  "visto": 1794641825,
-  "titulo": "Criação de site para empresa de consultoria e treinamentos"
- },
  "798551": {
   "visto": 1794666765,
   "titulo": "Automação com agentes de IA para YouTube, Google Drive e OpusClip"
@@ -394,7 +390,7 @@
  "799857": {
   "visto": 1795193251,
   "titulo": "UiPath RPA automation maintenance and workflow development",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1795259683,
   "url": "https://www.99freelas.com.br/project/uipath-rpa-automation-maintenance-and-workflow-development-799857",
   "publicado": 1795173284
@@ -422,5 +418,13 @@
  "799988": {
   "visto": 1795233220,
   "titulo": "Desenvolvimento de plataforma de busca de preços com WhatsApp"
+ },
+ "799999": {
+  "visto": 1795263356,
+  "titulo": "Criação de loja virtual para vender suplementos"
+ },
+ "799997": {
+  "visto": 1795263356,
+  "titulo": "Criação de site institucional para empresa"
  }
 }
