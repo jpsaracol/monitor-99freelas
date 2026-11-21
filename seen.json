@@ -1,20 +1,4 @@
 {
- "798504": {
-  "visto": 1794618245,
-  "titulo": "Configuração de campanhas no Google Ads com Claude"
- },
- "798502": {
-  "visto": 1794618245,
-  "titulo": "Auditoria e arquitetura de plataforma para migração de perfis"
- },
- "798497": {
-  "visto": 1794618245,
-  "titulo": "Atendimento utilizando IA para WhatsApp Business"
- },
- "798486": {
-  "visto": 1794618245,
-  "titulo": "Criação e configuração completa de loja Nuvemshop para marca de abajures"
- },
  "798515": {
   "visto": 1794641825,
   "titulo": "Criação de site para empresa de consultoria e treinamentos"
@@ -366,7 +350,7 @@
  "799826": {
   "visto": 1795135063,
   "titulo": "Criação de site e configuração de e-mail",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1795220631,
   "url": "https://www.99freelas.com.br/project/criacao-de-site-e-configuracao-de-e-mail-799826",
   "publicado": 1795134232
@@ -382,7 +366,7 @@
  "799838": {
   "visto": 1795160813,
   "titulo": "Faço sites para sua empresa",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1795229776,
   "url": "https://www.99freelas.com.br/project/faco-sites-para-sua-empresa-799838",
   "publicado": 1795143378
@@ -430,5 +414,13 @@
  "799928": {
   "visto": 1795215586,
   "titulo": "Site para portfólio profissional"
+ },
+ "800003": {
+  "visto": 1795233220,
+  "titulo": "Plataforma web de agenda online + CRM Kanban (SaaS multi-cliente)"
+ },
+ "799988": {
+  "visto": 1795233220,
+  "titulo": "Desenvolvimento de plataforma de busca de preços com WhatsApp"
  }
 }
