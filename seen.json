@@ -1,12 +1,4 @@
 {
- "798641": {
-  "visto": 1794698361,
-  "titulo": "Desenvolvedor e corretor de bugs"
- },
- "798625": {
-  "visto": 1794698361,
-  "titulo": "Desenvolvimento de site para educação financeira e sala de sinais"
- },
  "798664": {
   "visto": 1794711449,
   "titulo": "cria um servidor pra min SAMP eagle Rio de Janeiro rp"
@@ -442,5 +434,9 @@
  "800072": {
   "visto": 1795289975,
   "titulo": "Retomada e finalização de sistema web para pizzaria"
+ },
+ "800112": {
+  "visto": 1795305376,
+  "titulo": "Integração do WooCommerce com Infinity Pay"
  }
 }
