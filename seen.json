@@ -1,12 +1,4 @@
 {
- "798664": {
-  "visto": 1794711449,
-  "titulo": "cria um servidor pra min SAMP eagle Rio de Janeiro rp"
- },
- "798640": {
-  "visto": 1794711449,
-  "titulo": "Planejamento e estruturação de marketplace digital"
- },
  "798748": {
   "visto": 1794763571,
   "titulo": "Desenvolvimento de loja virtual para venda de ar-condicionado"
@@ -438,5 +430,17 @@
  "800112": {
   "visto": 1795305376,
   "titulo": "Integração do WooCommerce com Infinity Pay"
+ },
+ "800142": {
+  "visto": 1795327414,
+  "titulo": "Sistema de controle de processo",
+  "aguardando": true,
+  "abre_em": 1795409640,
+  "url": "https://www.99freelas.com.br/project/sistema-de-controle-de-processo-800142",
+  "publicado": 1795323241
+ },
+ "800129": {
+  "visto": 1795327414,
+  "titulo": "Segurança para site feito com Lovable"
  }
 }
