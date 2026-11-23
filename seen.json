@@ -1,24 +1,4 @@
 {
- "798811": {
-  "visto": 1794794000,
-  "titulo": "Repaginação de site e criação de 2 vídeos curtos de apresentação comercial",
-  "aguardando": false,
-  "abre_em": 1794879740,
-  "url": "https://www.99freelas.com.br/project/repaginacao-de-site-e-criacao-de-2-videos-curtos-de-apresentacao-comercial-798811",
-  "publicado": 1794793341
- },
- "798813": {
-  "visto": 1794794000,
-  "titulo": "Integração e automatização de sistema de atendimento WhatsApp"
- },
- "798801": {
-  "visto": 1794794000,
-  "titulo": "Criação de landing page profissional para produtos personalizados"
- },
- "798828": {
-  "visto": 1794820145,
-  "titulo": "Gravação de Tela e Teste de Funcionalidades do Aplicativo Ios Visitflow Pro"
- },
  "798983": {
   "visto": 1794857855,
   "titulo": "Criação de site para loja de produtos artesanais"
@@ -426,7 +406,7 @@
  "800142": {
   "visto": 1795327414,
   "titulo": "Sistema de controle de processo",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1795409640,
   "url": "https://www.99freelas.com.br/project/sistema-de-controle-de-processo-800142",
   "publicado": 1795323241
@@ -446,5 +426,17 @@
  "800260": {
   "visto": 1795397244,
   "titulo": "Desenvolvimento de plataforma web para comparar preços entre fornecedores"
+ },
+ "800320": {
+  "visto": 1795426830,
+  "titulo": "Projeto faculdade atrasado",
+  "aguardando": true,
+  "abre_em": 1795511304,
+  "url": "https://www.99freelas.com.br/project/projeto-faculdade-atrasado-800320",
+  "publicado": 1795424905
+ },
+ "800304": {
+  "visto": 1795426830,
+  "titulo": "Especialista em WordPress/WooCommerce + meios de pagamento (gateways) para"
  }
 }
