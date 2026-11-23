@@ -1,36 +1,4 @@
 {
- "798983": {
-  "visto": 1794857855,
-  "titulo": "Criação de site para loja de produtos artesanais"
- },
- "798968": {
-  "visto": 1794857855,
-  "titulo": "Implantação do Bling ERP e integração com marketplaces"
- },
- "798960": {
-  "visto": 1794857855,
-  "titulo": "Desenvolver plataforma web/mobile com IA e integrações (Rio de Janeiro/RJ)"
- },
- "798953": {
-  "visto": 1794857855,
-  "titulo": "Criação de BI básico para matriz de habilidades"
- },
- "798926": {
-  "visto": 1794857855,
-  "titulo": "Protótipo de alta fidelidade no Figma para um MVP de SaaS"
- },
- "798907": {
-  "visto": 1794857855,
-  "titulo": "Desenvolvimento de extensão para Google Chrome integrada ao WhatsApp Web"
- },
- "798841": {
-  "visto": 1794857855,
-  "titulo": "Personalização de site no Framer e integração com CRM e Google ADS"
- },
- "798836": {
-  "visto": 1794857855,
-  "titulo": "Microsoft Access/VBA: banco de dados, PDF/Word e envio de e-mails"
- },
  "799111": {
   "visto": 1794883051,
   "titulo": "Landing page conversível",
@@ -438,5 +406,53 @@
  "800304": {
   "visto": 1795426830,
   "titulo": "Especialista em WordPress/WooCommerce + meios de pagamento (gateways) para"
+ },
+ "800556": {
+  "visto": 1795470096,
+  "titulo": "App para rádio (Android/iOS) com link de stream configurável"
+ },
+ "800478": {
+  "visto": 1795470096,
+  "titulo": "Registros de ponto dos funcionários não sobem para o sistema de ponto"
+ },
+ "800477": {
+  "visto": 1795470096,
+  "titulo": "Automação e IA (n8n/OpenAI) para 2 agentes de vendas no WhatsApp"
+ },
+ "800471": {
+  "visto": 1795470096,
+  "titulo": "Desenvolvimento de sistema de atendimento via WhatsApp"
+ },
+ "800469": {
+  "visto": 1795470096,
+  "titulo": "Configuração de projeto no Canva"
+ },
+ "800431": {
+  "visto": 1795470096,
+  "titulo": "Relatório para máquina virtual"
+ },
+ "800427": {
+  "visto": 1795470096,
+  "titulo": "Configuração de loja e integração de fornecedores para dropshipping global"
+ },
+ "800423": {
+  "visto": 1795470096,
+  "titulo": "Desenvolvedor para integração de sistema médico com IA, API e WhatsApp"
+ },
+ "800399": {
+  "visto": 1795470096,
+  "titulo": "Criação de HUD, interfaces e identidade visual para servidor de RP"
+ },
+ "800372": {
+  "visto": 1795470096,
+  "titulo": "Automatização do WhatsApp para atendimento de motos"
+ },
+ "800313": {
+  "visto": 1795470096,
+  "titulo": "Desenvolvimento de site institucional em WordPress com foco em autoridade"
+ },
+ "800299": {
+  "visto": 1795470096,
+  "titulo": "Chatbot con IA para integrar WhatsApp y ERP Laravel/MySQL"
  }
 }
