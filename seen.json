@@ -1,60 +1,4 @@
 {
- "799111": {
-  "visto": 1794883051,
-  "titulo": "Landing page conversível",
-  "aguardando": false,
-  "abre_em": 1794968480,
-  "url": "https://www.99freelas.com.br/project/landing-page-conversivel-799111",
-  "publicado": 1794882081
- },
- "799094": {
-  "visto": 1794883051,
-  "titulo": "Engenharia reversa e replicação de software"
- },
- "799101": {
-  "visto": 1794883051,
-  "titulo": "Montagem de loja na Shopee com cadastro de produtos"
- },
- "799068": {
-  "visto": 1794883051,
-  "titulo": "Criação de site de e-commerce na Nuvemshop"
- },
- "799067": {
-  "visto": 1794883051,
-  "titulo": "Desenvolvimento de CRM para cadastro de clientes e veículos"
- },
- "799065": {
-  "visto": 1794883051,
-  "titulo": "Projeto de plataforma digital para eventos, turismo, gastronomia e negócios"
- },
- "799055": {
-  "visto": 1794883051,
-  "titulo": "Deploy em VPS Hostinger + Amazon S3 e revisão de sistema Laravel/Angular"
- },
- "799039": {
-  "visto": 1794883051,
-  "titulo": "Desenvolvimento de loja virtual personalizada do zero"
- },
- "799028": {
-  "visto": 1794883051,
-  "titulo": "Landing page para loja de produtos de estética"
- },
- "799031": {
-  "visto": 1794883051,
-  "titulo": "Landing page em HTML para loja de produtos de estética"
- },
- "799030": {
-  "visto": 1794883051,
-  "titulo": "Desenvolvimento, testes e ajustes em ferramenta de lives no TikTok"
- },
- "799029": {
-  "visto": 1794883051,
-  "titulo": "Ajustes em bot do Telegram"
- },
- "799000": {
-  "visto": 1794883051,
-  "titulo": "Projeto de estruturação e implantação do e-commerce"
- },
  "799139": {
   "visto": 1794913938,
   "titulo": "Criação de site para divulgação de portfólio no Wix."
@@ -454,5 +398,13 @@
  "800299": {
   "visto": 1795470096,
   "titulo": "Chatbot con IA para integrar WhatsApp y ERP Laravel/MySQL"
+ },
+ "800572": {
+  "visto": 1795498513,
+  "titulo": "Suporte para implementação acompanhada de loja na Nuvemshop"
+ },
+ "800565": {
+  "visto": 1795498513,
+  "titulo": "Atualização de site WordPress, cadastro de produtos e integração de IA"
  }
 }
