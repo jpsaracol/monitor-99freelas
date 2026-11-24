@@ -1,24 +1,4 @@
 {
- "799139": {
-  "visto": 1794913938,
-  "titulo": "Criação de site para divulgação de portfólio no Wix."
- },
- "799129": {
-  "visto": 1794913938,
-  "titulo": "Criar bot de puxa dados email telefone... Do Telegram com canal para o Bot",
-  "aguardando": false,
-  "abre_em": 1794987511,
-  "url": "https://www.99freelas.com.br/project/criar-bot-de-puxa-dados-email-telefone-do-telegram-com-canal-para-o-bot-799129",
-  "publicado": 1794901112
- },
- "799116": {
-  "visto": 1794913938,
-  "titulo": "Identidade visual para site de catálogo de vestuário de tênis e lifestyle"
- },
- "799088": {
-  "visto": 1794913938,
-  "titulo": "Automação semanal de envio de planilhas (Excel, PDF, e-mail e WhatsApp)"
- },
  "799233": {
   "visto": 1794945238,
   "titulo": "Criação de bot de vendas no Telegram com Pix automático e canal VIP"
@@ -342,7 +322,7 @@
  "800320": {
   "visto": 1795426830,
   "titulo": "Projeto faculdade atrasado",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1795511304,
   "url": "https://www.99freelas.com.br/project/projeto-faculdade-atrasado-800320",
   "publicado": 1795424905
@@ -406,5 +386,37 @@
  "800565": {
   "visto": 1795498513,
   "titulo": "Atualização de site WordPress, cadastro de produtos e integração de IA"
+ },
+ "800761": {
+  "visto": 1795537746,
+  "titulo": "Programador de Software Para atualizar aplicativo"
+ },
+ "800743": {
+  "visto": 1795537746,
+  "titulo": "Site para divulgar jogo online"
+ },
+ "800740": {
+  "visto": 1795537746,
+  "titulo": "Desenvolvimento de plataforma em Laravel com agentes de IA, WhatsApp e CRM"
+ },
+ "800724": {
+  "visto": 1795537746,
+  "titulo": "Estruturação e manutenção de aplicativo"
+ },
+ "800698": {
+  "visto": 1795537746,
+  "titulo": "Criação de site institucional para clínica médica"
+ },
+ "800697": {
+  "visto": 1795537746,
+  "titulo": "App Android e iOS com assinaturas e painel administrativo"
+ },
+ "800701": {
+  "visto": 1795537746,
+  "titulo": "Correção de erros no plugin Amelia"
+ },
+ "800670": {
+  "visto": 1795537746,
+  "titulo": "Desenvolvimento full stack de sistema web para gestão de frotas"
  }
 }
