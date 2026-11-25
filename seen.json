@@ -1,60 +1,4 @@
 {
- "799401": {
-  "visto": 1794996992,
-  "titulo": "Criar app de plano odontológico"
- },
- "799532": {
-  "visto": 1795028283,
-  "titulo": "Site minimalista e elegante para construtora com foco em alto padrão"
- },
- "799524": {
-  "visto": 1795028283,
-  "titulo": "Biblioteca de áudios realistas para canais dark"
- },
- "799520": {
-  "visto": 1795028283,
-  "titulo": "Criação de site profissional"
- },
- "799512": {
-  "visto": 1795028283,
-  "titulo": "Captura automática de contatos de marketplace"
- },
- "799486": {
-  "visto": 1795028283,
-  "titulo": "Desenvolvimento de aplicativo marketplace de alimentos"
- },
- "799484": {
-  "visto": 1795028283,
-  "titulo": "Conversão e decodificação de banco de dados FoxPro / Apollo SDE para SQLite"
- },
- "799445": {
-  "visto": 1795028283,
-  "titulo": "Pentest, revisão de código e auditoria de segurança AWS"
- },
- "799437": {
-  "visto": 1795028283,
-  "titulo": "Suporte e ajustes em site com Codex e ChatGPT"
- },
- "799410": {
-  "visto": 1795028283,
-  "titulo": "Otimização de página de vendas"
- },
- "799408": {
-  "visto": 1795028283,
-  "titulo": "Criação de app ou dashboard de calculadora de precificação para e-commerce"
- },
- "799395": {
-  "visto": 1795028283,
-  "titulo": "Desenvolvimento Full Stack de sites, sistemas e plataformas"
- },
- "799394": {
-  "visto": 1795028283,
-  "titulo": "Criação de formulários digitais - ficha de anamnese e termo de autorização"
- },
- "799390": {
-  "visto": 1795028283,
-  "titulo": "Integração do Claude com WhatsApp, Instagram e Google Agenda"
- },
  "799611": {
   "visto": 1795050233,
   "titulo": "Site sobre um projeto de ajuda a gatos"
@@ -426,5 +370,69 @@
  "800888": {
   "visto": 1795600331,
   "titulo": "Site para barbearia com agendamento online"
+ },
+ "801066": {
+  "visto": 1795636137,
+  "titulo": "IA para monitorar e responder directs do Instagram"
+ },
+ "801061": {
+  "visto": 1795636137,
+  "titulo": "Sistema de rastreamento de veículos"
+ },
+ "801050": {
+  "visto": 1795636137,
+  "titulo": "Criação de site institucional"
+ },
+ "801047": {
+  "visto": 1795636137,
+  "titulo": "Redesign de telas para SaaS de checkout e pagamentos"
+ },
+ "801040": {
+  "visto": 1795636137,
+  "titulo": "Conectar Meta, Google e LinkedIn ao Codex, Grok e Claude"
+ },
+ "801041": {
+  "visto": 1795636137,
+  "titulo": "Criação de landing page com integração à Hostinger e ao Registro.br"
+ },
+ "801038": {
+  "visto": 1795636137,
+  "titulo": "Automação de fluxo para cálculo de obsoleto"
+ },
+ "801014": {
+  "visto": 1795636137,
+  "titulo": "Plataforma de delivery: revisão de segurança"
+ },
+ "801009": {
+  "visto": 1795636137,
+  "titulo": "Finalização de SaaS com Evolution API, Telegram, Meta e deploy"
+ },
+ "801006": {
+  "visto": 1795636137,
+  "titulo": "Bot de alerta de anúncios da OLX e do Facebook Marketplace no Telegram"
+ },
+ "801001": {
+  "visto": 1795636137,
+  "titulo": "Atualização de site no Lovable com checkout do Mercado Pago"
+ },
+ "800979": {
+  "visto": 1795636137,
+  "titulo": "Criação de site em WordPress"
+ },
+ "800974": {
+  "visto": 1795636137,
+  "titulo": "Homologação com iFood para plataforma de delivery"
+ },
+ "800954": {
+  "visto": 1795636137,
+  "titulo": "Agente de atendimento para restaurante no WhatsApp"
+ },
+ "800953": {
+  "visto": 1795636137,
+  "titulo": "Criação e reformulação de site para empresa de consórcios"
+ },
+ "800909": {
+  "visto": 1795636137,
+  "titulo": "Workflow automatizado para geração de vídeos no ComfyUI"
  }
 }
