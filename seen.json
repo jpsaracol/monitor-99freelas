@@ -1,16 +1,4 @@
 {
- "799363": {
-  "visto": 1794967966,
-  "titulo": "Criação de site e integração com redes sociais"
- },
- "799354": {
-  "visto": 1794967966,
-  "titulo": "Ativação do SSL em site da UOL Host"
- },
- "799351": {
-  "visto": 1794967966,
-  "titulo": "Criação de site para conteúdos técnicos e científicos"
- },
  "799401": {
   "visto": 1794996992,
   "titulo": "Criar app de plano odontológico"
@@ -418,5 +406,25 @@
  "800765": {
   "visto": 1795568486,
   "titulo": "Aplicativo marketplace de compra e venda"
+ },
+ "800922": {
+  "visto": 1795600331,
+  "titulo": "Manutenção/atualização de site sob demanda (serviço permanente)."
+ },
+ "800917": {
+  "visto": 1795600331,
+  "titulo": "Desenvolvimento de sistemas personalizados e sites",
+  "aguardando": true,
+  "abre_em": 1795665590,
+  "url": "https://www.99freelas.com.br/project/desenvolvimento-de-sistemas-personalizados-e-sites-800917",
+  "publicado": 1795579192
+ },
+ "800906": {
+  "visto": 1795600331,
+  "titulo": "Publicar app Android na Google Play + RevenueCat e Firebase"
+ },
+ "800888": {
+  "visto": 1795600331,
+  "titulo": "Site para barbearia com agendamento online"
  }
 }
