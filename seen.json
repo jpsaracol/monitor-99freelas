@@ -1,56 +1,4 @@
 {
- "799753": {
-  "visto": 1795111319,
-  "titulo": "Deploy de Evolution API (WhatsApp) em VPS Ubuntu com Docker e Portainer",
-  "aguardando": false,
-  "abre_em": 1795197519,
-  "url": "https://www.99freelas.com.br/project/deploy-de-evolution-api-whatsapp-em-vps-ubuntu-com-docker-e-portainer-799753",
-  "publicado": 1795111121
- },
- "799743": {
-  "visto": 1795111319,
-  "titulo": "Configuração profissional de OBS para canal gamer no YouTube",
-  "aguardando": false,
-  "abre_em": 1795197221,
-  "url": "https://www.99freelas.com.br/project/configuracao-profissional-de-obs-para-canal-gamer-no-youtube-799743",
-  "publicado": 1795110823
- },
- "799739": {
-  "visto": 1795111319,
-  "titulo": "Ferramenta Windows para leitura, escrita e injeção de memória",
-  "aguardando": false,
-  "abre_em": 1795196904,
-  "url": "https://www.99freelas.com.br/project/ferramenta-windows-para-leitura-escrita-e-injecao-de-memoria-799739",
-  "publicado": 1795110506
- },
- "799721": {
-  "visto": 1795111319,
-  "titulo": "Desenvolvedor experiente para criar o site institucional"
- },
- "799704": {
-  "visto": 1795111319,
-  "titulo": "Loja online para produtos de bebês"
- },
- "799689": {
-  "visto": 1795111319,
-  "titulo": "Chatbot com agendamento automático"
- },
- "799680": {
-  "visto": 1795111319,
-  "titulo": "Ajuste de sistema em Delphi 7 para a reforma tributária"
- },
- "799678": {
-  "visto": 1795111319,
-  "titulo": "Criar um site em WordPress"
- },
- "799634": {
-  "visto": 1795111319,
-  "titulo": "Desenvolvimento de um jogo no Roblox"
- },
- "799647": {
-  "visto": 1795111319,
-  "titulo": "Desenvolvimento de plataforma web B2B de busca e comparação de preços"
- },
  "799826": {
   "visto": 1795135063,
   "titulo": "Criação de site e configuração de e-mail",
@@ -422,5 +370,17 @@
  "801194": {
   "visto": 1795692708,
   "titulo": "Implementação de agentes autônomos na nuvem com Claude"
+ },
+ "801383": {
+  "visto": 1795725219,
+  "titulo": "Desenvolvimento de site para empresa"
+ },
+ "801358": {
+  "visto": 1795725219,
+  "titulo": "Desenvolvimento de site institucional responsivo"
+ },
+ "800795": {
+  "visto": 1795725219,
+  "titulo": "Sistema de automatização de WhatsApp"
  }
 }
