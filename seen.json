@@ -1,32 +1,4 @@
 {
- "799611": {
-  "visto": 1795050233,
-  "titulo": "Site sobre um projeto de ajuda a gatos"
- },
- "799604": {
-  "visto": 1795050233,
-  "titulo": "Criação de site para sorteios"
- },
- "799579": {
-  "visto": 1795050233,
-  "titulo": "Arquitetura de agentes de IA com Claude Code e API Anthropic"
- },
- "799570": {
-  "visto": 1795050233,
-  "titulo": "Criar um site de e-commerce para linha de cosméticos"
- },
- "799566": {
-  "visto": 1795050233,
-  "titulo": "Criação de loja virtual na Shopify para vender miniaturas"
- },
- "799546": {
-  "visto": 1795050233,
-  "titulo": "Integração do Bling com loja online na Shopify"
- },
- "799543": {
-  "visto": 1795050233,
-  "titulo": "Landing page de produto único"
- },
  "799631": {
   "visto": 1795078133,
   "titulo": "Technical handover and secret rotation for a Shopify app"
@@ -434,5 +406,21 @@
  "800909": {
   "visto": 1795636137,
   "titulo": "Workflow automatizado para geração de vídeos no ComfyUI"
+ },
+ "801160": {
+  "visto": 1795660927,
+  "titulo": "Criação e automação de plataforma de agendamento"
+ },
+ "801161": {
+  "visto": 1795660927,
+  "titulo": "Chatbot oficial de WhatsApp"
+ },
+ "801144": {
+  "visto": 1795660927,
+  "titulo": "Automação de WhatsApp com IA para loja de roupas"
+ },
+ "801082": {
+  "visto": 1795660927,
+  "titulo": "Desenvolvimento de módulo de pagamento Banco Inter PJ para Magento 2"
  }
 }
