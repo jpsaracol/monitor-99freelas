@@ -1,8 +1,4 @@
 {
- "799631": {
-  "visto": 1795078133,
-  "titulo": "Technical handover and secret rotation for a Shopify app"
- },
  "799753": {
   "visto": 1795111319,
   "titulo": "Deploy de Evolution API (WhatsApp) em VPS Ubuntu com Docker e Portainer",
@@ -330,7 +326,7 @@
  "800917": {
   "visto": 1795600331,
   "titulo": "Desenvolvimento de sistemas personalizados e sites",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1795665590,
   "url": "https://www.99freelas.com.br/project/desenvolvimento-de-sistemas-personalizados-e-sites-800917",
   "publicado": 1795579192
@@ -422,5 +418,9 @@
  "801082": {
   "visto": 1795660927,
   "titulo": "Desenvolvimento de módulo de pagamento Banco Inter PJ para Magento 2"
+ },
+ "801194": {
+  "visto": 1795692708,
+  "titulo": "Implementação de agentes autônomos na nuvem com Claude"
  }
 }
