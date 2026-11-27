@@ -1,20 +1,4 @@
 {
- "799826": {
-  "visto": 1795135063,
-  "titulo": "Criação de site e configuração de e-mail",
-  "aguardando": false,
-  "abre_em": 1795220631,
-  "url": "https://www.99freelas.com.br/project/criacao-de-site-e-configuracao-de-e-mail-799826",
-  "publicado": 1795134232
- },
- "799821": {
-  "visto": 1795135063,
-  "titulo": "Desenvolvimento de sistema para óculos em Python e app Flutter"
- },
- "799773": {
-  "visto": 1795135063,
-  "titulo": "Bot de ticket para Discord"
- },
  "799838": {
   "visto": 1795160813,
   "titulo": "Faço sites para sua empresa",
@@ -382,5 +366,25 @@
  "800795": {
   "visto": 1795725219,
   "titulo": "Sistema de automatização de WhatsApp"
+ },
+ "801450": {
+  "visto": 1795749457,
+  "titulo": "Sistema financeiro python banco de dados",
+  "aguardando": true,
+  "abre_em": 1795834918,
+  "url": "https://www.99freelas.com.br/project/sistema-financeiro-python-banco-de-dados-801450",
+  "publicado": 1795748519
+ },
+ "801439": {
+  "visto": 1795749457,
+  "titulo": "Criação de protótipo navegável de aplicativo imobiliário"
+ },
+ "801433": {
+  "visto": 1795749457,
+  "titulo": "Robô para pegar cargas em aplicativo específico"
+ },
+ "801417": {
+  "visto": 1795749457,
+  "titulo": "Otimização de e-commerce Nuvemshop - UX/UI, CRO e web design"
  }
 }
