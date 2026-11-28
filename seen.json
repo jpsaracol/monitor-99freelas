@@ -1,20 +1,4 @@
 {
- "799965": {
-  "visto": 1795215586,
-  "titulo": "Transformar site em aplicativo"
- },
- "799937": {
-  "visto": 1795215586,
-  "titulo": "Criação de site e identidade visual para nutricionista oncológico"
- },
- "799936": {
-  "visto": 1795215586,
-  "titulo": "Integração de atendimento telefônico e WhatsApp com Twilio e ElevenLabs"
- },
- "799928": {
-  "visto": 1795215586,
-  "titulo": "Site para portfólio profissional"
- },
  "800003": {
   "visto": 1795233220,
   "titulo": "Plataforma web de agenda online + CRM Kanban (SaaS multi-cliente)"
@@ -334,7 +318,7 @@
  "801450": {
   "visto": 1795749457,
   "titulo": "Sistema financeiro python banco de dados",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1795834918,
   "url": "https://www.99freelas.com.br/project/sistema-financeiro-python-banco-de-dados-801450",
   "publicado": 1795748519
@@ -394,5 +378,33 @@
  "801497": {
   "visto": 1795816441,
   "titulo": "Instalação e preparação de ambiente no Chatwoot"
+ },
+ "801637": {
+  "visto": 1795837573,
+  "titulo": "Criação de uma página de vendas curta com pouca escrita e algumas imagens."
+ },
+ "801636": {
+  "visto": 1795837573,
+  "titulo": "Atualizar backup de um site já pronto em um novo pacote de hospedagem."
+ },
+ "801624": {
+  "visto": 1795837573,
+  "titulo": "Criação de página de apresentação digital"
+ },
+ "801623": {
+  "visto": 1795837573,
+  "titulo": "Criação de página de apresentação integrada a cartão digital existente"
+ },
+ "801614": {
+  "visto": 1795837573,
+  "titulo": "Desenvolvimento de bot para automatizar entradas no Bac Bo via Telegram",
+  "aguardando": true,
+  "abre_em": 1795910302,
+  "url": "https://www.99freelas.com.br/project/desenvolvimento-de-bot-para-automatizar-entradas-no-bac-bo-via-telegram-801614",
+  "publicado": 1795823904
+ },
+ "801613": {
+  "visto": 1795837573,
+  "titulo": "Automação completa com IA no WhatsApp (n8n), relatórios e monitoramento"
  }
 }
