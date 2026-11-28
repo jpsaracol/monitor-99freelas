@@ -1,20 +1,4 @@
 {
- "800003": {
-  "visto": 1795233220,
-  "titulo": "Plataforma web de agenda online + CRM Kanban (SaaS multi-cliente)"
- },
- "799988": {
-  "visto": 1795233220,
-  "titulo": "Desenvolvimento de plataforma de busca de preços com WhatsApp"
- },
- "799999": {
-  "visto": 1795263356,
-  "titulo": "Criação de loja virtual para vender suplementos"
- },
- "799997": {
-  "visto": 1795263356,
-  "titulo": "Criação de site institucional para empresa"
- },
  "800096": {
   "visto": 1795289975,
   "titulo": "Pentest whitebox de plataforma SaaS (web, API e app) - trimestral"
@@ -342,7 +326,7 @@
  "801488": {
   "visto": 1795784291,
   "titulo": "Especialista em Upseller ERP para otimização e treinamento",
-  "aguardando": true,
+  "aguardando": false,
   "abre_em": 1795869069,
   "url": "https://www.99freelas.com.br/project/especialista-em-upseller-erp-para-otimizacao-e-treinamento-801488",
   "publicado": 1795782671
@@ -406,5 +390,13 @@
  "801613": {
   "visto": 1795837573,
   "titulo": "Automação completa com IA no WhatsApp (n8n), relatórios e monitoramento"
+ },
+ "801634": {
+  "visto": 1795870030,
+  "titulo": "App de streaming OTT para Android, Android TV, LG e Samsung"
+ },
+ "801650": {
+  "visto": 1795870030,
+  "titulo": "Instalar o app e integrar IA, WhatsApp, site e Instagram"
  }
 }
